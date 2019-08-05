@@ -1394,13 +1394,13 @@ body {
   border-top-color: #c65cd1;
 }
 .cid-ryiec4LjFc .navbar {
-  background: #073b4c;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-ryiec4LjFc .navbar-dropdown.bg-color.transparent.opened {
-  background: #073b4c;
+  background: #ffffff;
 }
 .cid-ryiec4LjFc a {
   font-style: normal;
@@ -1491,7 +1491,7 @@ body {
   padding-bottom: 0;
 }
 .cid-ryiec4LjFc .dropdown .dropdown-menu {
-  background: #073b4c;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
